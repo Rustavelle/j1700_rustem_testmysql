@@ -1,3 +1,4 @@
+
 create table category_news
 (
     id            bigint unsigned auto_increment not null,
